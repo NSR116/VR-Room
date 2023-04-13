@@ -21,17 +21,23 @@ PrefabInstance:
     - target: {fileID: 474319650110039816, guid: dc011efb41f2d4a419389aefb4b4270d,
         type: 3}
       propertyPath: _handPoses.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 474319650110039816, guid: dc011efb41f2d4a419389aefb4b4270d,
         type: 3}
       propertyPath: _handPoses.Array.data[0]
       value: 
-      objectReference: {fileID: 11400000, guid: e6df3d75f076d57408705e6a99f82064,
+      objectReference: {fileID: 11400000, guid: 8b45010f868b09840ab76e94e714fd8d,
         type: 2}
     - target: {fileID: 474319650110039816, guid: dc011efb41f2d4a419389aefb4b4270d,
         type: 3}
       propertyPath: _handPoses.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: e6df3d75f076d57408705e6a99f82064,
+        type: 2}
+    - target: {fileID: 474319650110039816, guid: dc011efb41f2d4a419389aefb4b4270d,
+        type: 3}
+      propertyPath: _handPoses.Array.data[2]
       value: 
       objectReference: {fileID: 11400000, guid: 055ad85b7288a1f41bb0edc69c50aec6,
         type: 2}
