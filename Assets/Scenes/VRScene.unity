@@ -1015,7 +1015,7 @@ MonoBehaviour:
   _useParenting: 0
   _autoCreateStartAnchor: 0
   _startAnchor: {fileID: 0}
-  _tag: 
+  _tag: Speaker
   _dropAlignTransformUseSelf: 1
   _dropAlignTransform: {fileID: 0}
   _dropSnapMode: 3
@@ -2768,7 +2768,7 @@ MonoBehaviour:
   _useParenting: 0
   _autoCreateStartAnchor: 0
   _startAnchor: {fileID: 0}
-  _tag: 
+  _tag: Hat
   _dropAlignTransformUseSelf: 1
   _dropAlignTransform: {fileID: 0}
   _dropSnapMode: 3
@@ -3100,7 +3100,7 @@ MonoBehaviour:
   _useParenting: 0
   _autoCreateStartAnchor: 0
   _startAnchor: {fileID: 0}
-  _tag: 
+  _tag: Cup
   _dropAlignTransformUseSelf: 1
   _dropAlignTransform: {fileID: 0}
   _dropSnapMode: 3
